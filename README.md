@@ -28,10 +28,9 @@
 **Key Variables Analyzed:**
 
 - **Post Metrics:** Likes, Comments, Shares, Impressions, Saves.
-- **Engagement Rate:** Calculated as (Likes + Comments + Saves) / Impressions.
-- **Content Type:** Carousel, Image, Video.
-- **Posting Time:** Date, Time, and Day of the week.
-- **Follower Growth:** Daily increase in followers.
+- **Home%/ Explore%/ Hashtag%/ Others%:**([From Explore or Home or Hashtags or Others] / [Impressions]) * 100
+- **Engagement Rate:** (Likes + Comments + Saves) / Impressions.
+- **Follower Conversion rate:** IF [Profile Visits] > 0 THEN [Follows] / [Profile Visits] ELSE NULL END
 
 ---
 
