@@ -36,16 +36,6 @@
 
 ##  Key Insights
 
-- **Peak Engagement Times:** Posts published in the evening (6-9 PM) received the highest interaction rates.
-- **Best Performing Content:** Carousel posts had the highest engagement rates compared to single images and videos.
-- **Hashtag Effectiveness:** Posts with 5-10 hashtags performed better than those with excessive or no hashtags.
-- **Follower Growth Trends:** Spikes in followers were observed during giveaways and collaborations.
-- **User Interaction Patterns:** Videos had higher reach but lower engagement compared to carousels.
-
----
-
-## Dashboard Features
-
 **1️ Top Performing Hashtags**
 * The most engaging hashtags include #python, #pythonprogramming, #artificialintelligence, and #deeplearning.
 * Hashtags play a crucial role in boosting engagement across likes, shares, and follows.
@@ -61,6 +51,9 @@
 **4️ Engagement metrics**
 
 - Likes are the highest engagement metric, significantly outperforming other interactions.
+---
+
+## Dashboard Features
 
 **Interactive Features:**
 
